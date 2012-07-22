@@ -8,4 +8,4 @@ Requires Python 2, tested on 2.6.5.
 ## Instructions
 
 Copy `ref-updated` to Gerrit's `hooks` directory, making sure it is
-executable. Configure the `refs_urls` dictionary as indicated.
+executable. Configure the `refs` and `hudson_config` variables as indicated.
