@@ -1,7 +1,7 @@
 # gerrit-hudson
 
 Cleverly named project which provides a useful `ref-updated` hook for Gerrit
-to trigger a Hudson build, or to ping any URL you like.
+to trigger a Hudson build.
 
 Requires Python 2, tested on 2.6.5.
 
